@@ -2,7 +2,6 @@
  * Track.java
  * Represents a single music track in a streaming playlist.
  * Name Surname:Furkan Bozkurt
- * ID:240444038
  * Date:05.10.2026
  */
 public class Track {
